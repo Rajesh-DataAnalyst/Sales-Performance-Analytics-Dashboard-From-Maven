@@ -32,8 +32,18 @@ This repository contains a comprehensive sales performance analytics dashboard s
 - **Expand Mexico Central**: Leverage its 47.9K customers to close the sales gap with North West 📈.
 - **Target Female Customers**: In Mexico, the 32.3% female demographic could be a growth area with tailored campaigns 👩.
 
-## Getting Started 🛠️
-### Prerequisites
-- A web browser to view the dashboard.
-- No local server required; the dashboard is designed as a static HTML file.
+🚀 How to Use
+- Download the Super_Store_Dashboard.pbix file.
+- Open it in Power BI Desktop.
+- Refresh data or apply filters as needed.
+- Customize or extend visuals for deeper analysis.
+  
+📩 Contact
+Name: [Rajesh M]
+Email: [rajesh.mr1308@gmail.com]
+LinkedIn: [www.linkedin.com/in/rajesh-m-92b182341] 
+GitHub: [https://github.com/Rajesh-DataAnalyst]
+
+⭐ If you found this helpful, please give it a star!
+  
 
