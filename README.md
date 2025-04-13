@@ -56,6 +56,18 @@ This repository contains a comprehensive sales performance analytics dashboard s
 
 
 
+- Data Modeling
+![image](https://github.com/user-attachments/assets/25087199-e696-4a1a-94d9-fad7ab32b51b)
+![image](https://github.com/user-attachments/assets/15e77d6b-e3a4-4b7e-86c6-1eefd84462f6)
+
+
+🎥 Dashboard Walkthrough Video
+- Watch a full walkthrough of the dashboard here:
+
+https://github.com/user-attachments/assets/8742b53f-fd16-437f-b1aa-5b3152dc40a9
+
+
+
 🚀 How to Use
 - Download the Super_Store_Dashboard.pbix file.
 - Open it in Power BI Desktop.
