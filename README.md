@@ -32,6 +32,29 @@ This repository contains a comprehensive sales performance analytics dashboard s
 - **Expand Mexico Central**: Leverage its 47.9K customers to close the sales gap with North West 📈.
 - **Target Female Customers**: In Mexico, the 32.3% female demographic could be a growth area with tailored campaigns 👩.
 
+  Screenshots 🖼️
+
+- KPI Performance
+- Displays monthly sales, quantity, customers, and products with KPI breakdowns.
+<img width="566" alt="Sales_KPIs" src="https://github.com/user-attachments/assets/911b8fb5-18fa-4b18-9cd6-d0411d9ad2a8" />
+
+
+- Region Trends
+- Shows area charts and pie charts for regional trends and gender distribution.
+<img width="485" alt="sales_region_trend" src="https://github.com/user-attachments/assets/e164e6f0-efc7-40f8-994b-742ff4675d27" />
+
+
+- City Trends
+- Highlights city-wise sales trends and customer demographics.
+<img width="488" alt="sales_citytrends" src="https://github.com/user-attachments/assets/c25922e3-bbac-41be-9609-515037d6bb49" />
+
+
+- Country Trends
+- Illustrates country-level performance and gender splits.
+<img width="490" alt="Sales_countrytrends" src="https://github.com/user-attachments/assets/5253cd0b-704a-46da-9e0f-30b97bab8a4b" />
+
+
+
 🚀 How to Use
 - Download the Super_Store_Dashboard.pbix file.
 - Open it in Power BI Desktop.
