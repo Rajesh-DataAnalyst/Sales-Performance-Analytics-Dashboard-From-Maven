@@ -46,7 +46,8 @@ This repository contains a comprehensive sales performance analytics dashboard s
 
 - City Trends
 - Highlights city-wise sales trends and customer demographics.
-<img width="488" alt="sales_citytrends" src="https://github.com/user-attachments/assets/c25922e3-bbac-41be-9609-515037d6bb49" />
+<img width="489" alt="Sales_citytrends" src="https://github.com/user-attachments/assets/15f12c38-c839-4c79-81b7-34f5f49d1559" />
+
 
 
 - Country Trends
