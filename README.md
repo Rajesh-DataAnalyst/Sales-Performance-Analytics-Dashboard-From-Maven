@@ -69,7 +69,7 @@ https://github.com/user-attachments/assets/8742b53f-fd16-437f-b1aa-5b3152dc40a9
 
 
 🚀 How to Use
-- Download the Super_Store_Dashboard.pbix file.
+- Download the Maven_Market _Sales_Dasboard.pbix file.
 - Open it in Power BI Desktop.
 - Refresh data or apply filters as needed.
 - Customize or extend visuals for deeper analysis.
